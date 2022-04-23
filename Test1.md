@@ -1,5 +1,7 @@
 # Test that breaks space between links
 
-[click](http://nbastreams.site) 
+[Click](http://nbastreams.site) 
 
-[markdown](https://www.markdownguide.org/basic-syntax/) 
+[Invalid Link](sometext)
+
+[Markdown](https://www.markdownguide.org/basic-syntax/) 
