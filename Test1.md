@@ -1,7 +1,9 @@
-# Test that breaks space between links
+[link title](a.com
 
-[Click](http://nbastreams.site) 
 
-[Invalid Link](sometext)
+# Title
 
-[Markdown](https://www.markdownguide.org/basic-syntax/) 
+[a link!](https://something.com)
+[another link!](some-page.html)
+
+some paragraph text after the links
