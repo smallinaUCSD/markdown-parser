@@ -53,7 +53,8 @@ public class MarkdownParse {
                 + "{2,256}\\.[a-z]"
                 + "{2,6}\\b([-a-zA-Z0-9@:%"
                 + "._\\+~#?&//=]*)";
-        return url.matches(validURL);
+         return url.matches(validURL);
+        // return true;
     }
 
     static boolean isValidImage(String url) {
